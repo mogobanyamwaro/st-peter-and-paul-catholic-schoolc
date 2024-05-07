@@ -287,7 +287,7 @@ h4,
 
 .logo {
   font-size: 24px;
-  color: #ffffff;
+  color: #db67e2;
   font-weight: 700;
   left: 15px;
 }
@@ -297,7 +297,7 @@ h4,
   }
 }
 .logo:hover {
-  color: #ffffff;
+  color: #6b53ab;
 }
 
 .menu-absolute {
@@ -347,7 +347,7 @@ h4,
   padding: 10px 15px;
   display: inline-block;
   text-decoration: none !important;
-  color: #fff;
+  color: #db67e2;
   position: relative;
 }
 .site-nav .site-navigation .site-menu > li > a:hover {
@@ -1140,7 +1140,7 @@ h4,
 .bg-img,
 .bg-img > .container > .row {
   height: 100vh;
-  min-height: 650px;
+  min-height: 1200px;
 }
 @media (max-width: 767.98px) {
   .untree_co-hero,
